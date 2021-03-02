@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: upload
+---
+
 # 电视直播源
 
 ### 网络上收集的各种源
@@ -14,7 +18,9 @@
 
 https://zbds.lanzous.com/b0b2kul6b
 
-![https://raw.sevencdn.com/vbskycn/iptv/master/img/21.png]()
+![](https://cdn.jsdelivr.net/gh/vbskycn/tu@main/img/21.png)
+
+
 
 #### 友窝修改版
 
@@ -34,4 +40,4 @@ https://zbds.lanzous.com/b0b36hyqd
 
 欢迎请我喝杯饮料
 
-![https://raw.sevencdn.com/vbskycn/iptv/master/img/wxds.jpg]()
+![wxds](https://cdn.jsdelivr.net/gh/vbskycn/tu@main/img/wxds.jpg)
