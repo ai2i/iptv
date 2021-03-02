@@ -16,7 +16,7 @@
 
 https://zbds.lanzous.com/b0b2kul6b
 
-![Image text](https://raw.sevencdn.com/vbskycn/iptv/master/img/zbdsjs.png)
+![](https://cdn.jsdelivr.net/gh/vbskycn/tu@main/img/21.png)
 
 
 
@@ -24,16 +24,26 @@ https://zbds.lanzous.com/b0b2kul6b
 
 https://zbds.lanzous.com/b0b2lj7ij
 
-![Image text](https://raw.sevencdn.com/vbskycn/iptv/master/img/ywxg.png)
+![](https://cdn.jsdelivr.net/gh/vbskycn/tu@main/img/%E5%8F%8B%E7%AA%9D%E4%BF%AE%E6%94%B9%E7%89%88.png)
 
 #### 影音直播
 
 https://zbds.lanzous.com/b0b36hyqd
 
-![Image text](https://raw.sevencdn.com/vbskycn/iptv/master/img/yyzb.png)
+![](https://cdn.jsdelivr.net/gh/vbskycn/tu@main/img/%E5%BD%B1%E9%9F%B3%E7%9B%B4%E6%92%AD.png)
 
  
 
 ### 欢迎请我喝杯饮料
 
-![Image text](https://raw.sevencdn.com/vbskycn/iptv/master/img/wxds.jpg)
+![](https://cdn.jsdelivr.net/gh/vbskycn/tu@main/img/ds.jpg)
+
+
+
+
+
+
+
+
+
+
