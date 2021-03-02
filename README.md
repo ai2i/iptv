@@ -1,6 +1,4 @@
----
-typora-copy-images-to: upload
----
+
 
 # 电视直播源
 
@@ -40,4 +38,4 @@ https://zbds.lanzous.com/b0b36hyqd
 
 欢迎请我喝杯饮料
 
-![wxds](https://cdn.jsdelivr.net/gh/vbskycn/tu@main/img/wxds.jpg)
+![ds](https://cdn.jsdelivr.net/gh/vbskycn/tu@main/img/ds.jpg)
