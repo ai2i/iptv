@@ -14,19 +14,21 @@
 
 #### **直播电视，详细介绍  www.zbds.ml**
 
+##### 强烈推荐使用
+
 https://zbds.lanzous.com/b0b2kul6b
 
 ![](https://cdn.jsdelivr.net/gh/vbskycn/tu@main/img/21.png)
 
 
 
-#### 友窝修改版
+#### 友窝修改版-随缘更新，比较老的设备用这个比较流畅
 
 https://zbds.lanzous.com/b0b2lj7ij
 
 ![](https://cdn.jsdelivr.net/gh/vbskycn/tu@main/img/%E5%8F%8B%E7%AA%9D%E4%BF%AE%E6%94%B9%E7%89%88.png)
 
-#### 影音直播
+#### 影音直播-随缘更新
 
 https://zbds.lanzous.com/b0b36hyqd
 
