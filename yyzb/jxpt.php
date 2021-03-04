@@ -825,6 +825,7 @@ SiTV都市剧场,http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
 
 
 
+
 儿童频道,#genre#
 中国教育CETV4,http://101.71.255.229:6610/zjhs/2/10124/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 哈哈炫动,http://stream1.jlntv.cn/shpd/sd/live.m3u8?_upt=212b47d81531576020
@@ -849,14 +850,13 @@ SiTV都市剧场,http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
 
 
 
+
 港台频道,#genre#
 鳳凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 鳳凰中文,http://117.169.120.138:8080/live/fhchinese/index.m3u8
 鳳凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 鳳凰中文,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=190&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-鳳凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-鳳凰衛視,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
-鳳凰衛視,http://117.169.120.138:8080/live/fhzixun/.m3u8
+更多频道,https://raw.sevencdn.com/vbskycn/iptv/master/img/gengduo.png
 
 其它频道,#genre#
 中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
