@@ -1,7 +1,7 @@
 央视卫视,#genre#
-支持作者,https://i.zhoujie218.top:8888/gengduo.mp4
-支持作者,https://cdn.jsdelivr.net/gh/vbskycn/iptv@master/img/gengduo1.mp4
-支持作者,https://my.zhoujie218.top:58066/web/zbds/gengduo.mp4
+支持作者,https://cdn.jsdelivr.net/gh/vbskycn/iptv@master/img/jieshao.mp4
+支持作者,https://i.zhoujie218.top:8888/jieshao.mp4
+支持作者,https://my.zhoujie218.top:58066/web/zbds/jieshao.mp4
 CCTV1,http://39.135.138.59:18890/PLTV/88888910/224/3221225618/index.m3u8
 CCTV1,http://39.135.138.59:18890/PLTV/88888910/224/3221225762/index.m3u8
 CCTV1,http://39.135.138.59:18890/PLTV/88888910/224/3221225918/index.m3u8
