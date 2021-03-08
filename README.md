@@ -6,7 +6,7 @@
 
 
 
-根据自己的需要，维护了三个电视直播软件，不想折腾的自己下载安装就可以使用，免费使用
+根据自己的需要，维护了几个电视直播软件，不想折腾的自己下载安装就可以使用，免费使用
 
 安卓手机电视都可以用
 
@@ -22,11 +22,7 @@ https://zbds.lanzous.com/b0b2kul6b
 
 
 
-#### 友窝修改版-随缘更新，比较老的设备用这个比较流畅
 
-https://zbds.lanzous.com/b0b2lj7ij
-
-![](https://cdn.jsdelivr.net/gh/vbskycn/tu@main/img/%E5%8F%8B%E7%AA%9D%E4%BF%AE%E6%94%B9%E7%89%88.png)
 
 #### 影音直播-随缘更新
 
