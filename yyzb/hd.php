@@ -343,10 +343,8 @@ CGTV,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 
 
 
+
 卫视频道,#genre#
-安徽卫视,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ahws/4000000/mnf.m3u8
-安徽卫视,http://140.207.241.3:8080/live/program/live/ahws/4000000/mnf.m3u8
-安徽卫视,http://183.207.255.188/live/program/live/ahws/4000000/mnf.m3u8
 安徽卫视,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230707/01.m3u8?fmt=ts2hls
 安徽卫视,http://39.135.33.12/PLTV/77777777/224/3221226587/index.m3u8
 安徽卫视,http://39.135.33.12/PLTV/77777777/224/3221226673/index.m3u8
@@ -366,11 +364,7 @@ CGTV,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 安徽卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225945/index.m3u8$福建8M
 安徽卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226499/1.m3u8$北京8M
 安徽卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225691/index.m3u8$江西宜春8M
-安徽卫视,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/anhuistv/index.m3u8?IAS$四川成都8M
 安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8$陕西12M
-北京卫视,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/bjws/4000000/mnf.m3u8
-北京卫视,http://140.207.241.3:8080/live/program/live/bjws/4000000/mnf.m3u8
-北京卫视,http://183.207.255.188/live/program/live/bjws/4000000/mnf.m3u8
 北京卫视,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228321/01.m3u8?fmt=ts2hls
 北京卫视,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230704/01.m3u8?fmt=ts2hls
 北京卫视,http://39.135.33.12/PLTV/77777777/224/3221226544/index.m3u8
@@ -392,13 +386,9 @@ CGTV,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 北京卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8$北京8M
 北京卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8$北京8M
 北京卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225674/index.m3u8$江西宜春8M
-北京卫视,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/beijingstv/index.m3u8?IAS$四川成都8M
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8$陕西12M
 兵团卫视,http://101.71.255.229:6610/zjhs/2/10006/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 兵团卫视,http://ivi.bupt.edu.cn/hls/bttv.m3u8
-东方卫视,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dfws/4000000/mnf.m3u8
-东方卫视,http://140.207.241.3:8080/live/program/live/dfws/4000000/mnf.m3u8
-东方卫视,http://183.207.255.188/live/program/live/dfws/4000000/mnf.m3u8
 东方卫视,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230689/01.m3u8?fmt=ts2hls
 东方卫视,http://39.135.33.12/PLTV/77777777/224/3221226554/index.m3u8
 东方卫视,http://39.135.33.12/PLTV/77777777/224/3221226652/index.m3u8
@@ -423,11 +413,7 @@ CGTV,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 东方卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226364/1.m3u8$北京8M
 东方卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226505/1.m3u8$北京8M
 东方卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8$江西宜春8M
-东方卫视,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/dongfangstv/index.m3u8?IAS$四川成都8M
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8$陕西12M
-东南卫视,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dnws/4000000/mnf.m3u8
-东南卫视,http://140.207.241.3:8080/live/program/live/dnws/4000000/mnf.m3u8
-东南卫视,http://183.207.255.188/live/program/live/dnws/4000000/mnf.m3u8
 东南卫视,http://39.135.33.12/PLTV/77777777/224/3221226588/index.m3u8
 东南卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=2
 东南卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226406/1.m3u8
@@ -440,16 +426,12 @@ CGTV,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 东南卫视,http://ivi.bupt.edu.cn/hls/dntv.m3u8
 东南卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226496/1.m3u8$北京8M
 东南卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8$江西宜春4M
-东南卫视,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/dongnanstv/index.m3u8?IAS$四川成都8M
 甘肃卫视,http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
 甘肃卫视,http://39.134.39.37/PLTV/88888888/224/3221226240/index.m3u8
 甘肃卫视,http://101.71.255.229:6610/zjhs/2/10011/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 甘肃卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225724/index.m3u8
 甘肃卫视,http://ivi.bupt.edu.cn/hls/gstv.m3u8
 甘肃卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=142&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-广东卫视,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/gdws/4000000/mnf.m3u8
-广东卫视,http://140.207.241.3:8080/live/program/live/gdws/4000000/mnf.m3u8
-广东卫视,http://183.207.255.188/live/program/live/gdws/4000000/mnf.m3u8
 广东卫视,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230661/01.m3u8?fmt=ts2hls
 广东卫视,http://39.135.33.12/PLTV/77777777/224/3221226556/index.m3u8
 广东卫视,http://39.135.33.12/PLTV/77777777/224/3221226654/index.m3u8
@@ -470,7 +452,6 @@ CGTV,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 广东卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225942/index.m3u8$福建8M
 广东卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226508/1.m3u8$北京8M
 广东卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225701/index.m3u8$江西宜春8M
-广东卫视,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/guangdongstv/index.m3u8?IAS$四川成都8M
 广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8$陕西12M
 广西卫视,http://001.jilu8.cn/hls/gx.m3u8
 广西卫视,http://ivi.bupt.edu.cn/hls/gx.m3u8
@@ -485,7 +466,6 @@ CGTV,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 贵州卫视,http://ivi.bupt.edu.cn/hls/gztv.m3u8
 贵州卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227060/index.m3u8$福建8M
 贵州卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226497/1.m3u8$北京8M
-贵州卫视,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/guizhoustv/index.m3u8?IAS$四川成都8M
 海南卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227000/index.m3u8
 海南卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=2
 海南卫视,http://39.134.39.37/PLTV/88888888/224/3221226301/index.m3u8
@@ -505,17 +485,12 @@ CGTV,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 河北卫视,http://ivi.bupt.edu.cn/hls/hebtv.m3u8
 河北卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227001/index.m3u8$福建8M
 河北卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226507/1.m3u8$北京8M
-河北卫视,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/hebeistv/index.m3u8?IAS$四川成都8M
 河南卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226947/index.m3u8
 河南卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=19&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 河南卫视,http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
 河南卫视,http://101.71.255.229:6610/zjhs/2/10018/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 河南卫视,http://ivi.bupt.edu.cn/hls/hntv.m3u8
 河南卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226947/index.m3u8$福建8M
-河南卫视,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/henanstv/index.m3u8?IAS$四川成都8M
-黑龙江卫视,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/hljws/4000000/mnf.m3u8
-黑龙江卫视,http://140.207.241.3:8080/live/program/live/hljws/4000000/mnf.m3u8
-黑龙江卫视,http://183.207.255.188/live/program/live/hljws/4000000/mnf.m3u8
 黑龙江卫视,http://39.134.176.163/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230710/01.m3u8?fmt=ts2hls
 黑龙江卫视,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228827/index.m3u8
 黑龙江卫视,http://39.135.33.12/PLTV/77777777/224/3221226564/index.m3u8
@@ -536,11 +511,7 @@ CGTV,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 黑龙江卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227056/index.m3u8$福建8M
 黑龙江卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226498/1.m3u8$北京8M
 黑龙江卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225690/index.m3u8$江西宜春8M
-黑龙江卫视,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/hljtv1/index.m3u8?IAS$四川成都8M
 黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8$陕西12M
-湖北卫视,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/hbws/4000000/mnf.m3u8
-湖北卫视,http://140.207.241.3:8080/live/program/live/hbws/4000000/mnf.m3u8
-湖北卫视,http://183.207.255.188/live/program/live/hbws/4000000/mnf.m3u8
 湖北卫视,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230670/01.m3u8?fmt=ts2hls
 湖北卫视,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228815/index.m3u8
 湖北卫视,http://39.135.33.12/PLTV/77777777/224/3221226615/index.m3u8
@@ -563,10 +534,7 @@ CGTV,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 湖北卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226993/index.m3u8$福建8M
 湖北卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226503/1.m3u8$北京8M
 湖北卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225699/index.m3u8$江西宜春8M
-湖北卫视,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/hubeistv/index.m3u8?IAS$四川成都8M
 湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8$陕西12M
-湖南卫视,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/hnws/4000000/mnf.m3u8
-湖南卫视,http://140.207.241.3:8080/live/program/live/hnws/4000000/mnf.m3u8
 湖南卫视,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228824/index.m3u8
 湖南卫视,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230695/01.m3u8?fmt=ts2hls
 湖南卫视,http://39.135.33.12/PLTV/77777777/224/3221226605/index.m3u8
@@ -584,17 +552,12 @@ CGTV,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 湖南卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226935/index.m3u8$福建8M
 湖南卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8$北京8M
 湖南卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225704/index.m3u8$江西宜春8M
-湖南卫视,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/hunanstv/index.m3u8?IAS$四川成都8M
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8$陕西12M
 吉林卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=25&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 吉林卫视,http://116.199.5.52:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;FvSeid=5abd1660af1babb4&amp;Fsv_filetype=1&amp;Fsv_ctype=LIVES&amp;Fsv_cid=0&amp;Fsv_chan_hls_se_idx=25&amp;Fsv_rate_id=0&amp;Fsv_SV_PARAM1=0&amp;Fsv_ShiftEnable=0&amp;Fsv_ShiftTsp=0&amp;Provider_id=&amp;Pcontent_id=&amp;Fsv_CMSID=&amp;Fsv_otype=1
 吉林卫视,http://101.71.255.229:6610/zjhs/2/10025/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 吉林卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225680/index.m3u8
 吉林卫视,http://ivi.bupt.edu.cn/hls/jltv.m3u8
-吉林卫视,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/jilinstv/index.m3u8?IAS$四川成都8M
-江苏卫视,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jsws/4000000/mnf.m3u8
-江苏卫视,http://140.207.241.3:8080/live/program/live/jsws/4000000/mnf.m3u8
-江苏卫视,http://183.207.255.188/live/program/live/jsws/4000000/mnf.m3u8
 江苏卫视,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228821/index.m3u8
 江苏卫视,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230698/01.m3u8?fmt=ts2hls
 江苏卫视,http://39.135.33.12/PLTV/77777777/224/3221226558/index.m3u8
@@ -618,11 +581,7 @@ CGTV,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 江苏卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226366/1.m3u8$北京8M
 江苏卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226506/1.m3u8$北京8M
 江苏卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225702/index.m3u8$江西宜春8M
-江苏卫视,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/jiangsustv/index.m3u8?IAS$四川成都8M
 江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8$陕西8M
-江西卫视,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jxws/4000000/mnf.m3u8
-江西卫视,http://140.207.241.3:8080/live/program/live/jxws/4000000/mnf.m3u8
-江西卫视,http://183.207.255.188/live/program/live/jxws/4000000/mnf.m3u8
 江西卫视,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230667/01.m3u8?fmt=ts2hls
 江西卫视,http://39.135.33.12/PLTV/77777777/224/3221226607/index.m3u8
 江西卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225834/index.m3u8
@@ -636,9 +595,6 @@ CGTV,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 江西卫视,http://ivi.bupt.edu.cn/hls/jxtv.m3u8
 江西卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227022/index.m3u8$福建7M
 江西卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225705/index.m3u8$江西宜春4M
-辽宁卫视,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/lnws/4000000/mnf.m3u8
-辽宁卫视,http://140.207.241.3:8080/live/program/live/lnws/4000000/mnf.m3u8
-辽宁卫视,http://183.207.255.188/live/program/live/lnws/4000000/mnf.m3u8
 辽宁卫视,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230692/01.m3u8?fmt=ts2hls
 辽宁卫视,http://39.135.33.12/PLTV/77777777/224/3221226594/index.m3u8
 辽宁卫视,http://39.135.33.12/PLTV/77777777/224/3221226660/index.m3u8
@@ -655,7 +611,6 @@ CGTV,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 辽宁卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226881/index.m3u8$福建7M
 辽宁卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226500/1.m3u8$北京8M
 辽宁卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225696/index.m3u8$江西宜春8M
-辽宁卫视,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/liaoningstv/index.m3u8?IAS$四川成都8M
 辽宁卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226210/index.m3u8$陕西12M
 龙江卫视,http://39.134.116.30:8080/PLTV/88888910/224/3221225690/index.m3u8
 旅游卫视,http://ivi.bupt.edu.cn/hls/lytv.m3u8
@@ -675,9 +630,6 @@ CGTV,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 青海卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225727/index.m3u8
 青海卫视,http://ivi.bupt.edu.cn/hls/qhtv.m3u8
 青海卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=206&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-山东卫视,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/sdws/4000000/mnf.m3u8
-山东卫视,http://140.207.241.3:8080/live/program/live/sdws/4000000/mnf.m3u8
-山东卫视,http://183.207.255.188/live/program/live/sdws/4000000/mnf.m3u8
 山东卫视,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230652/01.m3u8?fmt=ts2hls
 山东卫视,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228834/index.m3u8
 山东卫视,http://39.135.33.12/PLTV/77777777/224/3221226609/index.m3u8
@@ -696,16 +648,12 @@ CGTV,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 山东卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226992/index.m3u8$福建8M
 山东卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226501/1.m3u8$北京8M
 山东卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225697/index.m3u8$江西宜春8M
-山东卫视,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/shandongstv/index.m3u8?IAS$四川成都8M
 山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8$陕西12M
 山西卫视,http://101.71.255.229:6610/zjhs/2/10041/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 山西卫视,http://ivi.bupt.edu.cn/hls/sxrtv.m3u8
 陕西卫视,http://101.71.255.229:6610/zjhs/2/10042/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 陕西卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225729/index.m3u8
 陕西卫视,http://ivi.bupt.edu.cn/hls/sxtv.m3u8
-深圳卫视,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/szws/4000000/mnf.m3u8
-深圳卫视,http://140.207.241.3:8080/live/program/live/szws/4000000/mnf.m3u8
-深圳卫视,http://183.207.255.188/live/program/live/szws/4000000/mnf.m3u8
 深圳卫视,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230676/01.m3u8?fmt=ts2hls
 深圳卫视,http://39.135.33.12/PLTV/77777777/224/3221226611/index.m3u8
 深圳卫视,http://39.135.33.12/PLTV/77777777/224/3221226664/index.m3u8
@@ -732,10 +680,6 @@ CGTV,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 四川卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225733/index.m3u8
 四川卫视,http://ivi.bupt.edu.cn/hls/sctv.m3u8
 四川卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227006/index.m3u8$福建7M
-四川卫视,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/sichuanstv/index.m3u8?IAS$四川成都8M
-天津卫视,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/tjws/4000000/mnf.m3u8
-天津卫视,http://140.207.241.3:8080/live/program/live/tjws/4000000/mnf.m3u8
-天津卫视,http://183.207.255.188/live/program/live/tjws/4000000/mnf.m3u8
 天津卫视,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228818/index.m3u8
 天津卫视,http://39.135.33.12/PLTV/77777777/224/3221226613/index.m3u8
 天津卫视,http://39.135.33.12/PLTV/77777777/224/3221226666/index.m3u8
@@ -752,7 +696,6 @@ CGTV,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 天津卫视,http://ivi.bupt.edu.cn/hls/tjtv.m3u8
 天津卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226502/1.m3u8$北京8M
 天津卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225698/index.m3u8$江西宜春8M
-天津卫视,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/tianjinstv/index.m3u8?IAS$四川成都8M
 天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8$陕西12M
 西藏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 西藏卫视,http://ivi.bupt.edu.cn/hls/xztv.m3u8
@@ -768,9 +711,6 @@ CGTV,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 云南卫视,http://101.71.255.229:6610/zjhs/2/10054/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 云南卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225664/index.m3u8
 云南卫视,http://ivi.bupt.edu.cn/hls/yntv.m3u8
-浙江卫视,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/zjws/4000000/mnf.m3u8
-浙江卫视,http://140.207.241.3:8080/live/program/live/zjws/4000000/mnf.m3u8
-浙江卫视,http://183.207.255.188/live/program/live/zjws/4000000/mnf.m3u8
 浙江卫视,http://39.134.176.156/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228837/index.m3u8
 浙江卫视,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230035/index.m3u8
 浙江卫视,http://39.135.33.12/PLTV/77777777/224/3221226562/index.m3u8
@@ -790,7 +730,6 @@ CGTV,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 浙江卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226365/1.m3u8$北京8M
 浙江卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226504/1.m3u8$北京8M
 浙江卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225703/index.m3u8$江西宜春8M
-浙江卫视,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/zhejiangstv/index.m3u8?IAS$四川成都8M
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8$陕西12M
 重庆卫视,http://39.135.33.12/PLTV/77777777/224/3221226586/index.m3u8
 重庆卫视,http://39.135.33.12/PLTV/77777777/224/3221226650/index.m3u8
@@ -803,7 +742,6 @@ CGTV,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 重庆卫视,http://ivi.bupt.edu.cn/hls/cqtv.m3u8
 重庆卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/index.m3u8$福建8M
 重庆卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225692/index.m3u8$江西宜春8M
-重庆卫视,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/chongqingstv/index.m3u8?IAS$四川成都8M
 重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8$陕西3M
 纪实人文,http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
 纪实人文,http://39.135.138.59:18890/PLTV/88888910/224/3221225654/index.m3u8
@@ -812,6 +750,7 @@ CGTV,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 东北戏曲,http://stream1.jlntv.cn/dbxq/playlist.m3u8?_upt=ea4a8ed01540827167
 生活时尚,http://39.134.168.91/PLTV/1/224/3221225498/index.m3u8
 数码时代,http://yd-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+
 
 
 
@@ -946,9 +885,7 @@ CHC电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC高清电影2K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC家庭影院2K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC蓝光电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
@@ -994,7 +931,6 @@ yy影视,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 风尚音乐,http://125.210.152.21:9120/live/FSYY.m3u8
 凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 福州影视台,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
-
 高清娱乐,http://125.210.152.21:9120/live/GQYL.m3u8
 郭富城,http://dl.zhoujie218.top/dl/youku.php?id=8027876
 韩国女团1,http://tx2play1.douyucdn.cn/live/17732rtara.flv
@@ -1054,7 +990,6 @@ yy影视,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 玄幻影院,https://tx.liveplay.live.kugou.com/live/fx_hifi_1308614369_avc.m3u8
 亚洲影院,http://125.210.152.21:9120/live/YZYY.m3u8
 一站到底,http://dl.zhoujie218.top/dl/youku.php?id=8019585
-
 岳西影视,,http://58.243.4.22:1935/live/yingshi/chunklist_w522017317.m3u8
 粤语片,http://dl.zhoujie218.top/dl/youku.php?id=8019006
 云南影视台,http://39.130.215.166:6410/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8?
@@ -1066,6 +1001,7 @@ yy影视,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 周润发,http://dl.zhoujie218.top/dl/youku.php?id=8019007
 周星驰,http://dl.zhoujie218.top/dl/youku.php?id=8021901
 邹城文化,http://jsylivealone302.iqilu.com/live/zoucheng_tv02.m3u8
+
 
 
 
@@ -1706,6 +1642,7 @@ SiTV都市剧场,http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
 
 
 
+
 儿童频道,#genre#
 中国教育4,http://101.71.255.229:6610/zjhs/2/10124/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 中国教育1,http://101.71.255.229:6610/zjhs/2/10060/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -1722,7 +1659,13 @@ CNTV动画王国,http://183.207.249.7/PLTV/3/224/3221225555/index.m3u8
 甘肃文化影视,http://39.134.39.39/PLTV/88888888/224/3221226287/index.m3u8
 哈哈炫动,http://stream1.jlntv.cn/shpd/sd/live.m3u8?_upt=212b47d81531576020
 哈哈炫动,http://101.71.255.229:6610/zjhs/2/10051/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-黑霉动画,http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
+黑莓动画,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228998/index.m3u8
+黑莓动画,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229675/index.m3u8
+黑莓动画,http://39.135.33.12/PLTV/77777777/224/3221226538/index.m3u8
+黑莓动画,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/index.m3u8
+黑莓动画,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=2
+黑莓动画,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225914/1.m3u8
+黑莓动画,http://39.135.138.59:18890/PLTV/88888910/224/3221225672/index.m3u8
 嘉佳卡通,http://101.71.255.229:6610/zjhs/2/10026/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 金鹰卡通,http://223.82.250.72/live/jinyingkaton/1.m3u8
 金鹰卡通,http://101.71.255.229:6610/zjhs/2/10030/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -2097,7 +2040,6 @@ SiTV游戏风云,http://39.134.39.39/PLTV/88888888/224/3221226337/index.m3u8
 5GO,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230344/index.m3u8
 5GO,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230353/index.m3u8
 5GO,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230379/index.m3u8
-
 
 
 
