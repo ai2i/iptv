@@ -24,11 +24,11 @@ https://zbds.lanzous.com/b0b2kul6b
 
 
 
-#### 影音直播-随缘更新
+#### 电视影音-随缘更新
 
 https://zbds.lanzous.com/b0b36hyqd
 
-![](https://cdn.jsdelivr.net/gh/vbskycn/tu@main/img/%E5%BD%B1%E9%9F%B3%E7%9B%B4%E6%92%AD.png)
+![](https://ae03.alicdn.com/kf/U516dd9210745452f874907dbae2738a3a.jpg)
 
  
 
