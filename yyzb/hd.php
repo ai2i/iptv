@@ -1699,7 +1699,6 @@ CNTV动画王国,http://183.207.249.7/PLTV/3/224/3221225555/index.m3u8
 
 
 
-
 其它频道,#genre#
 
 爱电竞,http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -2043,3 +2042,28 @@ SiTV游戏风云,http://39.134.39.39/PLTV/88888888/224/3221226337/index.m3u8
 
 
 
+测试频道_6688,#genre#
+直播,http://cdn.adultiptv.net/livecams.m3u8
+肛交,http://cdn.adultiptv.net/anal.m3u8
+巨尻,http://cdn.adultiptv.net/bigass.m3u8
+大鸟,http://cdn.adultiptv.net/bigdick.m3u8
+爆乳,http://cdn.adultiptv.net/bigtits.m3u8
+金发,http://cdn.adultiptv.net/blonde.m3u8
+口交,http://cdn.adultiptv.net/blowjob.m3u8
+褐发,http://cdn.adultiptv.net/brunette.m3u8
+合集,http://cdn.adultiptv.net/compilation.m3u8
+绿帽,http://cdn.adultiptv.net/cuckold.m3u8
+恋物,http://cdn.adultiptv.net/fetish.m3u8
+群交,http://cdn.adultiptv.net/gangbang.m3u8
+男同,http://cdn.adultiptv.net/gay.m3u8
+硬核,http://cdn.adultiptv.net/hardcore.m3u8
+异种,http://cdn.adultiptv.net/interracial.m3u8
+拉丁,http://cdn.adultiptv.net/latina.m3u8
+女同,http://cdn.adultiptv.net/lesbian.m3u8
+少妇,http://cdn.adultiptv.net/milf.m3u8
+色星,http://cdn.adultiptv.net/pornstar.m3u8
+第一视角,http://cdn.adultiptv.net/pov.m3u8
+粗暴,http://cdn.adultiptv.net/rough.m3u8
+俄罗斯,http://cdn.adultiptv.net/russian.m3u8
+少女,http://cdn.adultiptv.net/teen.m3u8
+三人,http://cdn.adultiptv.net/threesome.m3u8
