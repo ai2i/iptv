@@ -1,8 +1,6 @@
 央视频道,#genre#
 支持作者,https://cdn.jsdelivr.net/gh/vbskycn/iptv@master/img/jieshao2.mp4
 支持作者,https://raw.sevencdn.com/vbskycn/iptv/master/img/jieshao2.mp4
-支持作者,https://i.zhoujie218.top:8888/jieshao.mp4
-支持作者,https://my.zhoujie218.top:58066/web/zbds/jieshao.mp4
 CCTV1,http://39.134.176.156/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228809/index.m3u8
 CCTV1,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229818/index.m3u8
 CCTV1,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230713/01.m3u8?fmt=ts2hls
@@ -1694,8 +1692,6 @@ CNTV动画王国,http://183.207.249.7/PLTV/3/224/3221225555/index.m3u8
 鳳凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 更多频道,https://cdn.jsdelivr.net/gh/vbskycn/iptv@master/img/gengduo2.mp4
 更多频道,https://raw.sevencdn.com/vbskycn/iptv/master/img/gengduo2.mp4
-更多频道,https://i.zhoujie218.top:8888/gengduo.mp4
-更多频道,https://my.zhoujie218.top:58066/web/zbds/gengduo.mp4
 
 
 
