@@ -317,11 +317,11 @@ CCTV4K,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3
 CCTV4美洲,http://cctvalih5ca.v.myalicdn.com/live/cctvamerica_2/index.m3u8
 CCTV发现之旅,http://39.134.24.202/PLTV/88888888/224/3221225879/index.m3u8
 CCTV供销社,https://38649.hlsplay.aodianyun.com/guangdianyun_38649/program_live_channel_34275.m3u8
-CGTN,http://101.71.255.229:6610/zjhs/2/10001/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CGTN,https://livedoc.cgtn.com/500d/prog_index.m3u8
-CGTN,http://live.cgtn.com/1000/prog_index.m3u8
+CGTN国际,http://101.71.255.229:6610/zjhs/2/10001/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CGTN国际,https://livedoc.cgtn.com/500d/prog_index.m3u8
+CGTN国际,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN纪录,http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
-CGTV,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
+CGTN国际,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 纯享4K,http://39.135.33.12/PLTV/77777777/224/3221226802/index.m3u8
 纯享4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 纯享4K,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=2
