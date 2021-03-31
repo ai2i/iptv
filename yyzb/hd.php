@@ -1915,7 +1915,6 @@ CNTV动画王国,http://183.207.249.7/PLTV/3/224/3221225555/index.m3u8
 
 
 港台频道,#genre#
-鳳凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 鳳凰中文,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8$FJ720P
 鳳凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8$BJ720P
 鳳凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8$BJ720P
@@ -1924,6 +1923,8 @@ CNTV动画王国,http://183.207.249.7/PLTV/3/224/3221225555/index.m3u8
 鳳凰中文,rtmp://58.200.131.2:1935/livetv/fhzw
 鳳凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 鳳凰中文,http://117.169.119.199:8080/live/fhchinese/index.m3u8
+更多频道,https://cdn.jsdelivr.net/gh/vbskycn/iptv@master/img/gengduo2.mp4
+
 更多频道,https://cdn.jsdelivr.net/gh/vbskycn/iptv@master/img/gengduo2.mp4
 
 
