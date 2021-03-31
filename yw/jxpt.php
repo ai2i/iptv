@@ -1,4 +1,4 @@
-
+﻿
 CCTV1,http://101.71.255.229:6610/zjhs/2/10078/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV1,http://cctvcnch5ca.v.wscdns.com/live/cctv1_2/10793.m3u8
 CCTV1,http://ivi.bupt.edu.cn/hls/cctv1.m3u8
