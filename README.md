@@ -16,7 +16,7 @@
 
 ##### 强烈推荐使用
 
-https://zbds.lanzous.com/b0b2kul6b
+##### 下载地址：https://zbds.lanzoui.com/b0b2kul6b
 
 ![](https://cdn.jsdelivr.net/gh/vbskycn/tu@main/img/21.png)
 
@@ -26,7 +26,7 @@ https://zbds.lanzous.com/b0b2kul6b
 
 #### 电视影音-随缘更新
 
-https://zbds.lanzous.com/b0b36hyqd
+##### 下载地址：https://zbds.lanzoui.com/b0b36hyqd
 
 ![](https://ae03.alicdn.com/kf/U516dd9210745452f874907dbae2738a3a.jpg)
 
