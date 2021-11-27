@@ -47,22 +47,16 @@ rtsp://115.153.254.81/PLTV/88888888/224/3221226634/51813368.smil
 rtsp://115.153.254.81/PLTV/88888888/224/3221225537/iptv7959.smil
 #EXTINF:-1 group-title="未分类",CCTV17
 rtsp://115.153.254.81/PLTV/88888888/224/3221226846/61397282.smil
-#EXTINF:-1 group-title="未分类",4K影视
-rtsp://115.153.254.81/PLTV/88888888/224/3221226936/68179221.smil
 #EXTINF:-1 group-title="未分类",CCTV-老故事
 rtsp://115.153.254.81/PLTV/88888888/224/3221226816/59781822.smil
 #EXTINF:-1 group-title="未分类",CCTV-中学生
 rtsp://115.153.254.81/PLTV/88888888/224/3221226813/59781751.smil
-#EXTINF:-1 group-title="未分类",CETV-早期教育
-rtsp://115.153.254.81/PLTV/88888888/224/3221226815/59781805.smil
 #EXTINF:-1 group-title="未分类",CGTV
 rtsp://115.153.254.81/PLTV/88888888/224/3221226694/55738457.smil
 #EXTINF:-1 group-title="未分类",Discovery全纪实
 rtsp://115.153.254.81/PLTV/88888888/224/3221225605/iptv7993.smil
 #EXTINF:-1 group-title="未分类",安徽卫视
 rtsp://115.153.254.81/PLTV/88888888/224/3221226622/51176344.smil
-#EXTINF:-1 group-title="未分类",宝宝动画
-rtsp://115.153.254.81/PLTV/88888888/224/3221226915/68179145.smil
 #EXTINF:-1 group-title="未分类",北京卫视
 rtsp://115.153.254.81/PLTV/88888888/224/3221225546/iptv51912.smil
 #EXTINF:-1 group-title="未分类",兵团卫视
@@ -71,8 +65,6 @@ rtsp://115.153.254.81/PLTV/88888888/224/3221225753/iptv101723.smil
 rtsp://115.153.254.81/PLTV/88888888/224/3221226832/59781969.smil
 #EXTINF:-1 group-title="未分类",导视
 rtsp://115.153.254.81/PLTV/88888888/224/3221225623/iptv8002.smil
-#EXTINF:-1 group-title="未分类",谍战剧场
-rtsp://115.153.254.81/PLTV/88888888/224/3221226919/68179208.smil
 #EXTINF:-1 group-title="未分类",东方财经
 rtsp://115.153.254.81/PLTV/88888888/224/3221225609/iptv7995.smil
 #EXTINF:-1 group-title="未分类",东方卫视
@@ -109,8 +101,6 @@ rtsp://115.153.254.81/PLTV/88888888/224/3221225584/10000100000000060000000000031
 rtsp://115.153.254.81/PLTV/88888888/224/3221225827/10000100000000060000000000470332_2.smil
 #EXTINF:-1 group-title="未分类",湖南卫视
 rtsp://115.153.254.81/PLTV/88888888/224/3221225697/iptv8039.smil
-#EXTINF:-1 group-title="未分类",华语影院
-rtsp://115.153.254.81/PLTV/88888888/224/3221226923/68179124.smil
 #EXTINF:-1 group-title="未分类",欢笑剧场
 rtsp://115.153.254.81/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil
 #EXTINF:-1 group-title="未分类",吉林卫视
@@ -121,8 +111,6 @@ rtsp://115.153.254.81/PLTV/88888888/224/3221225619/iptv8000.smil
 rtsp://115.153.254.81/PLTV/88888888/224/3221225951/10000100000000060000000000905987_0.smil
 #EXTINF:-1 group-title="未分类",嘉佳卡通
 rtsp://115.153.254.81/PLTV/88888888/224/3221225588/10000100000000060000000000140157_0.smil
-#EXTINF:-1 group-title="未分类",健康养生
-rtsp://115.153.254.81/PLTV/88888888/224/3221226925/68179215.smil
 #EXTINF:-1 group-title="未分类",江苏卫视
 rtsp://115.153.254.81/PLTV/88888888/224/3221225766/10000100000000060000000000913517_0.smil
 #EXTINF:-1 group-title="未分类",金色频道
@@ -149,14 +137,8 @@ rtsp://115.153.254.81/PLTV/88888888/224/3221226817/59781891.smil
 rtsp://115.153.254.81/PLTV/88888888/224/3221225568/iptv101727.smil
 #EXTINF:-1 group-title="未分类",汽车摩托
 rtsp://115.153.254.81/PLTV/88888888/224/3221226819/59781852.smil
-#EXTINF:-1 group-title="未分类",青春动漫
-rtsp://115.153.254.81/PLTV/88888888/224/3221226932/68179136.smil
 #EXTINF:-1 group-title="未分类",青海卫视
 rtsp://115.153.254.81/PLTV/88888888/224/3221225589/iptv7985.smil
-#EXTINF:-1 group-title="未分类",全球大片
-rtsp://115.153.254.81/PLTV/88888888/224/3221226934/68179120.smil
-#EXTINF:-1 group-title="未分类",热门剧场
-rtsp://115.153.254.81/PLTV/88888888/224/3221226917/68179204.smil
 #EXTINF:-1 group-title="未分类",山东卫视
 rtsp://115.153.254.81/PLTV/88888888/224/3221225919/10000100000000060000000000811554_0.smil
 #EXTINF:-1 group-title="未分类",山西卫视
@@ -179,10 +161,6 @@ rtsp://115.153.254.81/PLTV/88888888/224/3221226824/59781846.smil
 rtsp://115.153.254.81/PLTV/88888888/224/3221225570/iptv101725.smil
 #EXTINF:-1 group-title="未分类",新疆卫视
 rtsp://115.153.254.81/PLTV/88888888/224/3221225550/iptv61197.smil
-#EXTINF:-1 group-title="未分类",星光影院
-rtsp://115.153.254.81/PLTV/88888888/224/3221226921/68179170.smil
-#EXTINF:-1 group-title="未分类",学生频道
-rtsp://115.153.254.81/PLTV/88888888/224/3221226927/68179235.smil
 #EXTINF:-1 group-title="未分类",游戏风云
 rtsp://115.153.254.81/PLTV/88888888/224/3221225615/iptv7998.smil
 #EXTINF:-1 group-title="未分类",云南卫视
@@ -199,18 +177,8 @@ rtsp://115.153.254.81/PLTV/88888888/224/3221226253/10000100000000060000000001521
 rtsp://115.153.254.81/PLTV/88888888/224/3221226638/51813388.smil
 #EXTINF:-1 group-title="未分类",江西卫视
 http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
-#EXTINF:-1 group-title="未分类",江西都市
-http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8
-#EXTINF:-1 group-title="未分类",江西经济生活
-http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv3.m3u8
 #EXTINF:-1 group-title="未分类",江西经济生活HD
 http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8
-#EXTINF:-1 group-title="未分类",江西影视旅游
-http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8
-#EXTINF:-1 group-title="未分类",江西公共农业
-http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8
-#EXTINF:-1 group-title="未分类",江西少儿
-http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8
 #EXTINF:-1 group-title="未分类",江西新闻
 http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
 #EXTINF:-1 group-title="未分类",江西移动

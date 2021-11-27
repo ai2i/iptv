@@ -47,7 +47,6 @@ CGTN,https://livedoc.cgtn.com/500d/prog_index.m3u8
 CGTN国际,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN纪录,http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
 中国教育4,http://39.135.138.59:18890/PLTV/88888910/224/3221225937/index.m3u8
-中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
 
 
@@ -86,6 +85,7 @@ CGTN纪录,http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
 黑龙江卫视,rtsp://115.153.254.81/PLTV/88888888/224/3221225571/iptv7976.smil
 内蒙古卫视,rtsp://115.153.254.81/PLTV/88888888/224/3221225591/iptv7986.smil
 
+
 吉林卫视,http://116.199.5.52:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;FvSeid=5abd1660af1babb4&amp;Fsv_filetype=1&amp;Fsv_ctype=LIVES&amp;Fsv_cid=0&amp;Fsv_chan_hls_se_idx=25&amp;Fsv_rate_id=0&amp;Fsv_SV_PARAM1=0&amp;Fsv_ShiftEnable=0&amp;Fsv_ShiftTsp=0&amp;Provider_id=&amp;Pcontent_id=&amp;Fsv_CMSID=&amp;Fsv_otype=1
 甘肃卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=142&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 青海卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=206&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
@@ -122,19 +122,14 @@ CGTN纪录,http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
 陕西卫视,http://dl.zhoujie218.top/dl/gdtv2.php?migu/630287233
 河北卫视,http://dl.zhoujie218.top/dl/gdtv2.php?migu/630292528
 云南卫视,http://dl.zhoujie218.top/dl/gdtv2.php?migu/630291417
-甘肃卫视,http://dl.zhoujie218.top/dl/gdtv2.php?migu/630287549
 内蒙古卫视,http://dl.zhoujie218.top/dl/gdtv2.php?migu/630287015
 吉林卫视,http://dl.zhoujie218.top/dl/gdtv2.php?migu/630288397
-重庆卫视,http://dl.zhoujie218.top/dl/gdtv2.php?migu/630288006
 宁夏卫视,http://dl.zhoujie218.top/dl/gdtv2.php?migu/630287436
 山西卫视,http://dl.zhoujie218.top/dl/gdtv2.php?migu/630289043
 青海卫视,http://dl.zhoujie218.top/dl/gdtv2.php?migu/630287272
 新疆卫视,http://dl.zhoujie218.top/dl/gdtv2.php?migu/635385783
 西藏卫视,http://dl.zhoujie218.top/dl/gdtv2.php?migu/630291593
 兵团卫视,http://dl.zhoujie218.top/dl/gdtv2.php?migu/630288004
-南方卫视TVS2,http://dl.zhoujie218.top/dl/gdtv2.php?migu/608917627
-
-
 
 
 
@@ -142,10 +137,10 @@ CGTN纪录,http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
 
 电影频道,#genre#
 
+
 神乐华语-斗鱼,https://tx2play1.douyucdn.cn/live/85894rmovieChow_900p.xs?uuid=web-h5-0-85894-a3575d938a4aa3091c09ccbd5c24bf146a02074c80cec221
 军旅剧场,http://dl.zhoujie218.top/dl/gdtv2.php?migu/625643517
 末世硬核,http://dl.zhoujie218.top/dl/youku.php?id=8019690
-僵尸剧场,http://dl.zhoujie218.top/dl/gdtv2.php?migu/627033504
 周润发影院,http://dl.zhoujie218.top/dl/gdtv2.php?migu/639526984
 古龙作品集,http://dl.zhoujie218.top/dl/gdtv2.php?migu/639528313
 周星驰影院,http://dl.zhoujie218.top/dl/gdtv2.php?migu/623338112
@@ -156,8 +151,6 @@ CGTN纪录,http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
 高能烧脑时刻,http://dl.zhoujie218.top/dl/gdtv2.php?migu/625542365
 咪咕暑期剧场,http://dl.zhoujie218.top/dl/gdtv2.php?migu/627198692
 黄金剧场,http://dl.zhoujie218.top/dl/gdtv2.php?migu/625155140
-少林剧场,http://dl.zhoujie218.top/dl/gdtv2.php?migu/625526423
-高清大片,http://dl.zhoujie218.top/dl/gdtv2.php?migu/629943678
 古天乐影院,http://dl.zhoujie218.top/dl/gdtv2.php?migu/627198610
 热剧联播,http://dl.zhoujie218.top/dl/gdtv2.php?migu/629943613
 深夜失眠剧场,http://dl.zhoujie218.top/dl/gdtv2.php?migu/625759558
@@ -166,7 +159,6 @@ CGTN纪录,http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
 追剧少女,http://dl.zhoujie218.top/dl/gdtv2.php?migu/617432318
 migu/tv-7套武侠剧场,http://dl.zhoujie218.top/dl/gdtv2.php?migu/627198822
 金庸频道,http://dl.zhoujie218.top/dl/gdtv2.php?migu/625774640
-新片放映厅,http://dl.zhoujie218.top/dl/gdtv2.php?migu/619495952
 高分影院,http://dl.zhoujie218.top/dl/gdtv2.php?migu/627198191
 CIBN经典剧场,http://dl.zhoujie218.top/dl/gdtv2.php?migu/692446012
 CIBN流金岁月,http://dl.zhoujie218.top/dl/gdtv2.php?migu/692399419
@@ -175,29 +167,14 @@ CIBN骄阳剧场频道,http://dl.zhoujie218.top/dl/gdtv2.php?migu/692401078
 杨幂影院,http://dl.zhoujie218.top/dl/gdtv2.php?migu/625542372
 郭富城影院,http://dl.zhoujie218.top/dl/gdtv2.php?migu/639528330
 试胆大会,http://dl.zhoujie218.top/dl/gdtv2.php?migu/637483721
-喜剧联盟,http://dl.zhoujie218.top/dl/gdtv2.php?migu/637444830
 怀旧老片,http://dl.zhoujie218.top/dl/gdtv2.php?migu/621640582
 刘亦菲影视展播,http://dl.zhoujie218.top/dl/gdtv2.php?migu/639528386
 爱情公寓,http://dl.zhoujie218.top/dl/gdtv2.php?migu/625681367
-东至影视台,,http://223.247.33.124:1935/live/yingshi/playlist.m3u8
 绍兴影视台,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
-4K花园娱乐,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
-4K超高清电影,http://60.255.49.202/live/emdy4k_8000.m3u8
 经典贺岁片,http://dl.zhoujie218.top/dl/gdtv2.php?migu/625774662
-CHC家庭电影,http://60.255.49.202/live/jbtygqCHCjtyyH265_4000.m3u8
-CHC高请电影,http://60.255.49.202/live/lnwsCHC-HDH265_4000.m3u8
-CHC动作电影,http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
-CHC动作电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
-CHC动作电影,http://39.134.18.69:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8?icpid=88888888&from=1&ocs=2_39.134.18.69_80&hms_devid=7855&vqe=3
-CHC动作电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-CHC高清电影,http://39.134.18.65:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8?icpid=88888888&from=1&ocs=2_39.134.18.65_80&hms_devid=7854&vqe=3
 CHC高清电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC高清电影,http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC高清电影,http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-CHC家庭影院,http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-CHC家庭影院,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-CHC家庭影院,http://39.134.18.66:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8?icpid=88888888&from=1&ocs=2_39.134.18.66_80&hms_devid=7854&vqe=3
 CHC家庭影院,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 上海东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 上海东方影视,http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
@@ -211,6 +188,7 @@ CHC家庭影院,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/
 福州影视台,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 纪实人文,http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
 经典电影,http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
+上海东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 浙江影视台,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
 邹城文化,http://jsylivealone302.iqilu.com/live/zoucheng_tv02.m3u8
 盗墓方法论,http://dl.zhoujie218.top/dl/gdtv2.php?migu/625525181
@@ -225,28 +203,17 @@ CHC家庭影院,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/
 奥斯卡经典,http://dl.zhoujie218.top/dl/youku.php?id=8018655
 宋慧乔,http://dl.zhoujie218.top/dl/youku.php?id=8020223
 kk电影频道,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-kk影视频道,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 NHK华语视界HD,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 yy电影,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-yy影视,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-阿坝综合,http://222.214.9.34:90/live/zhpd.m3u8
-电视剧封神榜,https://tx.liveplay.live.kugou.com/live/fx_hifi_1573309100_avc.m3u8
-电视剧还珠格格,https://tx.liveplay.live.kugou.com/live/fx_hifi_1573309100_avc.m3u8
-电视剧小李飞刀,https://tx.liveplay.live.kugou.com/live/fx_hifi_1573309100_avc.m3u8
 风尚音乐,http://125.210.152.21:9120/live/FSYY.m3u8
 高清娱乐,http://125.210.152.21:9120/live/GQYL.m3u8
 华数服务HD,http://125.210.152.21:9120/live/HSFWHD.m3u8
-经典影视,https://tx.liveplay.live.kugou.com/live/fx_hifi_251702616_avc.m3u8
 警匪电影,http://dl.zhoujie218.top/dl/youku.php?id=8019691
-南安卫视,http://natv.cnjrna.com:3000/channel/sovp/1000000000000018/video_1564_none.m3u8
 如果可以这样爱,http://dl.zhoujie218.top/dl/youku.php?id=8019192
 四川影视,http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
-四川影视HD,http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
 四川影视台,http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
 新视觉HD,http://125.210.152.21:9120/live/XSJHD.m3u8
-玄幻影院,https://tx.liveplay.live.kugou.com/live/fx_hifi_1308614369_avc.m3u8
 一站到底,http://dl.zhoujie218.top/dl/youku.php?id=8019585
-择天记,http://dl.zhoujie218.top/dl/youku.php?id=8019978
 张学友,http://dl.zhoujie218.top/dl/youku.php?id=8027929
 周星驰,http://dl.zhoujie218.top/dl/youku.php?id=8021901
 张国荣,http://dl.zhoujie218.top/dl/youku.php?id=8019325
@@ -257,8 +224,8 @@ yy影视,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 吴京作品集,http://dl.zhoujie218.top/dl/gdtv2.php?migu/625681368
 咪咕云上电影院,http://dl.zhoujie218.top/dl/gdtv2.php?migu/625703337
 每日科幻电影,http://dl.zhoujie218.top/dl/gdtv2.php?migu/625204865
-江苏影视,http://223.110.243.135/PLTV/4/224/3221225937/index.m3u8
 西安影视台,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+
 
 
 
@@ -268,21 +235,10 @@ yy影视,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 
 儿童频道,#genre#
 
-金鹰卡通,rtsp://115.153.254.81/PLTV/88888888/224/3221225585/iptv7983.smil
-哈哈动画,rtsp://115.153.254.81/PLTV/88888888/224/3221225583/iptv7982.smil
-卡酷动画,rtsp://115.153.254.81/PLTV/88888888/224/3221225566/iptv101695.smil
-嘉佳卡通,rtsp://115.153.254.81/PLTV/88888888/224/3221225588/10000100000000060000000000140157_0.smil
 CCTV14少儿高清,http://dl.zhoujie218.top/dl/gdtv2.php?migu/624878440
-上海哈哈炫动,http://dl.zhoujie218.top/dl/gdtv2.php?migu/651638619
 嘉佳卡通,http://dl.zhoujie218.top/dl/gdtv2.php?migu/614952364
-CETV2,http://dl.zhoujie218.top/dl/gdtv2.php?migu/649532169
-CETV3,http://dl.zhoujie218.top/dl/gdtv2.php?migu/649531756
-CETV4,http://dl.zhoujie218.top/dl/gdtv2.php?migu/649531725
-山东教育,http://dl.zhoujie218.top/dl/gdtv2.php?migu/609154353
-江苏教育,http://dl.zhoujie218.top/dl/gdtv2.php?migu/628008321
 空中课堂一年级,http://dl.zhoujie218.top/dl/gdtv2.php?migu/670427084
 空中课堂二年级,http://dl.zhoujie218.top/dl/gdtv2.php?migu/670427069
-空中课堂三年级,http://dl.zhoujie218.top/dl/gdtv2.php?migu/670427087
 空中课堂四年级,http://dl.zhoujie218.top/dl/gdtv2.php?migu/670427102
 空中课堂五年级,http://dl.zhoujie218.top/dl/gdtv2.php?migu/670427124
 空中课堂六年级,http://dl.zhoujie218.top/dl/gdtv2.php?migu/670427112
@@ -290,32 +246,24 @@ CETV4,http://dl.zhoujie218.top/dl/gdtv2.php?migu/649531725
 空中课堂八年级,http://dl.zhoujie218.top/dl/gdtv2.php?migu/670427201
 空中课堂九年级,http://dl.zhoujie218.top/dl/gdtv2.php?migu/670427227
 空中课堂高一,http://dl.zhoujie218.top/dl/gdtv2.php?migu/670427199
-空中课堂高二,http://dl.zhoujie218.top/dl/gdtv2.php?migu/670427200
 空中课堂高三,http://dl.zhoujie218.top/dl/gdtv2.php?migu/670427221
 CCTV中学生,http://dl.zhoujie218.top/dl/gdtv2.php?migu/708869532
 熊猫频道01,http://dl.zhoujie218.top/dl/gdtv2.php?migu/609158151
-熊猫频道1,http://dl.zhoujie218.top/dl/gdtv2.php?migu/608933610
 熊猫频道2,http://dl.zhoujie218.top/dl/gdtv2.php?migu/608933640
 熊猫频道3,http://dl.zhoujie218.top/dl/gdtv2.php?migu/608934619
 熊猫频道4,http://dl.zhoujie218.top/dl/gdtv2.php?migu/608934721
 熊猫频道5,http://dl.zhoujie218.top/dl/gdtv2.php?migu/608935104
 熊猫频道6,http://dl.zhoujie218.top/dl/gdtv2.php?migu/608935797
 熊猫频道7,http://dl.zhoujie218.top/dl/gdtv2.php?migu/609169286
-熊猫频道8,http://dl.zhoujie218.top/dl/gdtv2.php?migu/609169287
 熊猫频道9,http://dl.zhoujie218.top/dl/gdtv2.php?migu/609169226
-熊猫频道10,http://dl.zhoujie218.top/dl/gdtv2.php?migu/609169285
 中国教育4,http://39.135.138.59:18890/PLTV/88888910/224/3221225937/index.m3u8
-卡酷少儿,http://223.82.250.72/live/kakukaton/1.m3u8
-炫动卡通,http://223.82.250.72/live/xuandongkaton/1.m3u8
-优漫卡通,http://223.82.250.72/live/youmankaton/1.m3u8
-金鹰卡通,http://223.82.250.72/live/jinyingkaton/1.m3u8
 优漫卡通,http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8
 CNTV动画王国,http://183.207.249.7/PLTV/3/224/3221225555/index.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 甘肃少儿,http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8
 甘肃文化影视,http://39.134.39.39/PLTV/88888888/224/3221226287/index.m3u8
-黑莓动画,http://39.135.138.59:18890/PLTV/88888910/224/3221225672/index.m3u8
 哈哈炫动,http://stream1.jlntv.cn/shpd/sd/live.m3u8?_upt=212b47d81531576020
+
 
 
 
@@ -348,10 +296,27 @@ CNTV动画王国,http://183.207.249.7/PLTV/3/224/3221225555/index.m3u8
 鳳凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
 鳳凰香港,http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
 鳳凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804
-鳳凰香港,http://223.82.250.72/live/fhhongkong/1.m3u8
 鳳凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
 鳳凰中文,http://117.169.120.138:8080/live/fhchinese/index.m3u8
-鳳凰資訊,http://117.169.120.160:8080/live/fhzixun/1.m3u8
 鳳凰資訊,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
 鳳凰衛視,http://117.169.120.138:8080/live/fhzixun/.m3u8
+香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
+開電視,http://livetv.dnsfor.me:80/channel.9.m3u8
+開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+香港佛陀教育,http://de1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+新視覺HD,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=75&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
+凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
+凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
+翡翠台(大陆线路）,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+香港開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+RTHK31,http://livetv.dnsfor.me:80/channel.1.m3u8
+RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
+Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
+Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
 更多频道,https://cdn.jsdelivr.net/gh/vbskycn/iptv@master/img/gengduo2.mp4
