@@ -238,4 +238,4 @@ C+-影视,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/01.m3u8
 凤凰中文,http://117.169.120.138:8080/live/fhchinese/index.m3u8
 未来日本,http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
 
-更多频道,https://cdn.jsdelivr.net/gh/vbskycn/iptv@master/img/gengduo2.mp4
+更多频道,https://img.zhoujie218.top/zbds/gengduo2.mp4
