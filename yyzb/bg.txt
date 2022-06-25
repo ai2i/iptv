@@ -242,34 +242,6 @@ SNH48剧场公演,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
 哈哈动画,rtsp://115.153.254.81/PLTV/88888888/224/3221225583/iptv7982.smil
 卡酷动画,rtsp://115.153.254.81/PLTV/88888888/224/3221225566/iptv101695.smil
 嘉佳卡通,rtsp://115.153.254.81/PLTV/88888888/224/3221225588/10000100000000060000000000140157_0.smil
-中国教育4,http://39.135.138.59:18890/PLTV/88888910/224/3221225937/index.m3u8
-CNTV动画王国,http://183.207.249.7/PLTV/3/224/3221225555/index.m3u8
-福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
-哈哈炫动,http://stream1.jlntv.cn/shpd/sd/live.m3u8?_upt=212b47d81531576020
-黑莓动画,http://39.135.138.59:18890/PLTV/88888910/224/3221225672/index.m3u8
-上海哈哈炫动,http://dl.zhoujie218.top/dl/gdtv2.php?migu/651638619
-山东教育,http://dl.zhoujie218.top/dl/gdtv2.php?migu/609154353
-浙江少儿,https://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-黑莓动画,http://183.207.249.7/PLTV/3/224/3221225555/index.m3u8
-云朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
-熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
-熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
-猪侠英雄,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
-空中课堂四年级,http://dl.zhoujie218.top/dl/gdtv2.php?migu/670427102
-空中课堂六年级,http://dl.zhoujie218.top/dl/gdtv2.php?migu/670427112
-空中课堂七年级,http://dl.zhoujie218.top/dl/gdtv2.php?migu/670427116
-空中课堂八年级,http://dl.zhoujie218.top/dl/gdtv2.php?migu/670427201
-空中课堂九年级,http://dl.zhoujie218.top/dl/gdtv2.php?migu/670427227
-空中课堂高一,http://dl.zhoujie218.top/dl/gdtv2.php?migu/670427199
-空中课堂高三,http://dl.zhoujie218.top/dl/gdtv2.php?migu/670427221
-熊猫频道01,http://dl.zhoujie218.top/dl/gdtv2.php?migu/609158151
-熊猫频道1,http://dl.zhoujie218.top/dl/gdtv2.php?migu/608933610
-熊猫频道7,http://dl.zhoujie218.top/dl/gdtv2.php?migu/609169286
-熊猫频道9,http://dl.zhoujie218.top/dl/gdtv2.php?migu/609169226
-熊猫频道10,http://dl.zhoujie218.top/dl/gdtv2.php?migu/609169285
-
-
-
 
 
 
@@ -293,40 +265,11 @@ CNTV动画王国,http://183.207.249.7/PLTV/3/224/3221225555/index.m3u8
 
 
 
-港台频道,#genre#
-鳳凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
+港台V频道,#genre#
+支持作者,https://img.zhoujie218.top/zbds/jieshao2.mp4
+支持作者,https://fastly.jsdelivr.net/gh/vbskycn/iptv@master/img/jieshao2.mp4
+支持作者,https://my.zhoujie218.top:58066/web/zbds/jieshao2.mp4
+鳳凰衛視,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?WithCaption
 鳳凰香港,http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
-鳳凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804
-鳳凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
 鳳凰中文,http://117.169.120.138:8080/live/fhchinese/index.m3u8
-鳳凰資訊,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
 鳳凰衛視,http://117.169.120.138:8080/live/fhzixun/.m3u8
-凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
-開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-香港佛陀教育,http://de1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
-凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
-凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-香港卫视 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-凤凰中文,http://223.110.245.138/PLTV/3/224/3221226922/index.m3u8
-凤凰资讯,http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
-凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
-凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-C+-影视,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/01.m3u8
-凤凰香港,http://223.110.245.137/PLTV/3/224/3221226975/index.m3u8
-凤凰香港,http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
-凤凰香港蓝光,http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-凤凰香港蓝光,http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-凤凰资讯,http://223.110.245.137/PLTV/3/224/3221226923/index.m3u8
-凤凰资讯蓝光,http://223.110.235.5/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-凤凰资讯蓝光,http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-凤凰中文蓝光,http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-凤凰中文,http://117.169.120.138:8080/live/fhchinese/index.m3u8
-未来日本,http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
-
-更多频道,https://cdn.jsdelivr.net/gh/vbskycn/iptv@master/img/gengduo2.mp4
