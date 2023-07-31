@@ -101,7 +101,7 @@
 - 🆕EPG接口地址：
   -  [http://epg.51zmt.top:8000/e.xml](http://epg.51zmt.top:8000/e.xml)
 - 📄M3U To TXT：
-  - Demo🔗 [https://fanmingming.com/txt?url=https://live2.zhoujie218.top/dsyy/zb.m3u](https://fanmingming.com/txt?url=https://live2.zhoujie218.top/dsyy/zb.m3u)
+  - Demo🔗 [https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u)
 - 🌐M3U8 Web Player
   - Demo🔗 [https://live.fanmingming.com/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8](https://live.fanmingming.com/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8)
 
