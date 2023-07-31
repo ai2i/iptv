@@ -54,13 +54,6 @@
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/vbskycn/iptv">
 <img alt="GitHub" src="https://img.shields.io/github/license/vbskycn/iptv">
 </p>
-
-
-
-<<<<<<< Updated upstream
-
-=======
->>>>>>> Stashed changes
 ---
 
 ## 🤹‍♂️直播源:
@@ -102,10 +95,8 @@
 
 
 ## 🛠️工具
-<<<<<<< Updated upstream
 
-=======
->>>>>>> Stashed changes
+
 - 🆕EPG接口地址：
   -  http://epg.51zmt.top:8000/e.xml
 - 📄M3U To TXT：
@@ -114,10 +105,6 @@
   - Demo🔗 [https://live.fanmingming.com/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8](https://live.fanmingming.com/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8)
 
 ## 📖说明
-<<<<<<< Updated upstream
-
-=======
->>>>>>> Stashed changes
 - 所有播放源均收集于互联网，仅供测试研究使用，不得商用。
 - 通过M3U8 Web Player测试直播源需使用https协议的直播源链接。
 - 部分广播电台节目播出具有一定的时效性，需要在指定时段进行收听。
@@ -128,10 +115,7 @@
 - 您可以编辑本项目的m3u文件或上传缺失的频道Logo到`tv`或`radio`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布。
 
 ## 📔更新
-<<<<<<< Updated upstream
 
-=======
->>>>>>> Stashed changes
 - 2023.7.30
   - 修复了一些已知的问题。
 
