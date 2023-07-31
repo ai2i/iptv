@@ -73,6 +73,20 @@
   </thead>
   <tbody>
     <tr>
+      <td>📺IPTV(江西电信专用)</td>
+      <td><a href="https://live2.zhoujie218.top/dsyy/hd.m3u">https://live2.zhoujie218.top/dsyy/hd.m3u</a></td>
+      <td><a href="https://github.com/vbskycn/iptv/edit/main/dsyy/hd.m3u">编辑该源</a></td>
+      <td>110个</td>
+      <td>2023.7.29</td>
+    </tr>
+    <tr>
+      <td>🌏IPTV组播源（全国）</td>
+      <td><a href="https://live2.zhoujie218.top/dsyy/zb.m3u">https://live2.zhoujie218.top/dsyy/zb.m3u</a></td>
+      <td><a href="https://github.com/vbskycn/iptv/edit/main/dsyy/zb.m3u">编辑该源</a></td>
+      <td>110个</td>
+      <td>2023.7.31</td>
+    </tr>
+    <tr>
       <td>📺IPTV(IPV6专用)</td>
       <td><a href="https://live.fanmingming.com/tv/m3u/ipv6.m3u">https://live.fanmingming.com/tv/m3u/ipv6.m3u</a></td>
       <td><a href="https://github.com/fanmingming/live/edit/main/tv/m3u/ipv6.m3u">编辑该源</a></td>
@@ -81,10 +95,10 @@
     </tr>
     <tr>
       <td>🌏Global直播源</td>
-      <td><a href="https://live2.zhoujie218.top/dsyy/zb.m3u">https://live2.zhoujie218.top/dsyy/zb.m3u</a></td>
-      <td><a href="https://github.com/vbskycn/iptv/edit/main/dsyy/zb.m3u">编辑该源</a></td>
+      <td><a href="https://live.fanmingming.com/tv/m3u/global.m3u">https://live.fanmingming.com/tv/m3u/global.m3u</a></td>
+      <td><a href="https://github.com/fanmingming/live/edit/main/tv/m3u/global.m3u">编辑该源</a></td>
       <td>198个</td>
-      <td>2023.7.31</td>
+      <td>2023.7.28</td>
     </tr>
     <tr>
       <td>📻Radio直播源</td>
@@ -113,7 +127,7 @@
 - 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
 - 您可以Fork本项目，但引用本项目内容到其他仓库的情况，务必要遵守开源协议。
 - 本项目不保证直播频道的有效性，直播内容可能受直播服务提供商因素影响而失效。
-- 所有文件均托管在[GitHub](https://github.com/fanmingming/live)且自动构建，由项目发起人公益维护，欢迎Star本项目或点击[Issues](https://github.com/fanmingming/live/issues/new/choose)反馈您的问题。
+- 所有文件均托管在[GitHub](https://github.com/vbskycn/iptv)且自动构建，由项目发起人公益维护，欢迎Star本项目或点击[Issues](https://github.com/vbskycn/iptv/issues/new/choose)反馈您的问题。
 - 您可以编辑本项目的m3u文件或上传缺失的频道Logo到`tv`或`radio`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布。
 
 ## 📔更新
