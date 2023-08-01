@@ -34,7 +34,6 @@ CGTN阿语,http://iptv4.dnwx.vip:8888/udp/239.252.219.66:5140
 
 
 江西本地,#genre#
-
 江西卫视,http://iptv4.dnwx.vip:8888/udp/239.252.220.63:5140
 江西二套,http://iptv4.dnwx.vip:8888/udp/239.252.220.238:5140
 江西三套,http://iptv4.dnwx.vip:8888/udp/239.252.219.173:5140
@@ -45,8 +44,6 @@ CGTN阿语,http://iptv4.dnwx.vip:8888/udp/239.252.219.66:5140
 
 
 卫视频道,#genre#
-
-
 甘肃卫视,http://iptv4.dnwx.vip:8888/udp/239.252.219.140:5140
 海南卫视,http://iptv4.dnwx.vip:8888/udp/239.252.219.178:5140
 广西卫视,http://iptv4.dnwx.vip:8888/udp/239.252.219.183:5140
