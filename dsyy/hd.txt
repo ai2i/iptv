@@ -252,7 +252,7 @@ CCTV5+,rtsp://115.153.254.81/PLTV/88888888/224/3221226976/85722488.smil
 
 
 
-港台频道,#genre#
+港台VIP,#genre#
 支持作者,https://zbds.ml/dsyy/jieshao2.mp4
 支持作者,https://img.zhoujie218.top/zbds/jieshao2.mp4
 支持作者,https://fastly.jsdelivr.net/gh/vbskycn/iptv@master/img/jieshao2.mp4
