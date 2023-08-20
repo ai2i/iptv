@@ -35,12 +35,11 @@ CCTV8-超高清,rtsp://115.153.254.81/PLTV/88888888/224/3221226854/63329578.smil
 导视,rtsp://115.153.254.81/PLTV/88888888/224/3221225623/iptv8002.smil
 中国天气,rtsp://115.153.254.81/PLTV/88888888/224/3221227056/89471929.smil
 
-支持作者,https://pan.zhoujie218.top/d/%E5%A4%A9%E7%BF%BC%E5%88%86%E4%BA%AB/video-web/jieshao2.mp4?sign=Jntg4fP3M6qGmRwUZFuxPB4Dt7pejvXL7s5FHYCSMf8=:0
-支持作者,https://123.ly93.cc/355/2722127/jieshao2.mp4
-支持作者,https://zbds.ml/dsyy/jieshao2.mp4
-支持作者,https://img.zhoujie218.top/zbds/jieshao2.mp4
-支持作者,https://fastly.jsdelivr.net/gh/vbskycn/iptv@master/img/jieshao2.mp4
-支持作者,https://my.zhoujie218.top:58066/web/zbds/jieshao2.mp4
+支持作者,https://pan.zhoujie218.top/d/%E5%A4%A9%E7%BF%BC%E5%88%86%E4%BA%AB/video-web/jieshao.mp4?sign=9BTNyUzwqMwdWHh20XKtvZcdkFh0WMn-6z4bX7_XZ6k=:0
+支持作者,https://zbds.dnwx.vip/jieshao.mp4
+支持作者,https://img.zhoujie218.top/zbds/jieshao.mp4
+支持作者,https://cdn.jsdelivr.net/gh/vbskycn/iptv@master/img/jieshao.mp4
+支持作者,https://github.dnwx.vip/https://raw.githubusercontent.com/vbskycn/iptv/master/img/jieshao.mp4
 
 江西本地,#genre#
 
@@ -256,12 +255,11 @@ CCTV5+,rtsp://115.153.254.81/PLTV/88888888/224/3221226976/85722488.smil
 
 
 港台VIP,#genre#
-支持作者,https://pan.zhoujie218.top/d/%E5%A4%A9%E7%BF%BC%E5%88%86%E4%BA%AB/video-web/jieshao2.mp4?sign=Jntg4fP3M6qGmRwUZFuxPB4Dt7pejvXL7s5FHYCSMf8=:0
-支持作者,https://123.ly93.cc/355/2722127/jieshao2.mp4
-支持作者,https://zbds.ml/dsyy/jieshao2.mp4
-支持作者,https://img.zhoujie218.top/zbds/jieshao2.mp4
-支持作者,https://fastly.jsdelivr.net/gh/vbskycn/iptv@master/img/jieshao2.mp4
-支持作者,https://my.zhoujie218.top:58066/web/zbds/jieshao2.mp4
+支持作者,https://pan.zhoujie218.top/d/%E5%A4%A9%E7%BF%BC%E5%88%86%E4%BA%AB/video-web/jieshao.mp4?sign=9BTNyUzwqMwdWHh20XKtvZcdkFh0WMn-6z4bX7_XZ6k=:0
+支持作者,https://zbds.dnwx.vip/jieshao.mp4
+支持作者,https://img.zhoujie218.top/zbds/jieshao.mp4
+支持作者,https://cdn.jsdelivr.net/gh/vbskycn/iptv@master/img/jieshao.mp4
+支持作者,https://github.dnwx.vip/https://raw.githubusercontent.com/vbskycn/iptv/master/img/jieshao.mp4
 
 香港卫视 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv

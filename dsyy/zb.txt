@@ -30,12 +30,11 @@ CGTN俄语,http://iptv4.dnwx.vip:8888/udp/239.252.219.67:5140
 CGTN阿语,http://iptv4.dnwx.vip:8888/udp/239.252.219.66:5140
 央视精品,http://iptv4.dnwx.vip:8888/udp/239.252.219.81:5140
 央视台球,http://iptv4.dnwx.vip:8888/udp/239.252.219.80:5140
-支持作者,https://pan.zhoujie218.top/d/%E5%A4%A9%E7%BF%BC%E5%88%86%E4%BA%AB/video-web/jieshao2.mp4?sign=Jntg4fP3M6qGmRwUZFuxPB4Dt7pejvXL7s5FHYCSMf8=:0
-支持作者,https://123.ly93.cc/355/2722127/jieshao2.mp4
-支持作者,https://zbds.ml/dsyy/jieshao2.mp4
-支持作者,https://img.zhoujie218.top/zbds/jieshao2.mp4
-支持作者,https://fastly.jsdelivr.net/gh/vbskycn/iptv@master/img/jieshao2.mp4
-支持作者,https://my.zhoujie218.top:58066/web/zbds/jieshao2.mp4
+支持作者,https://pan.zhoujie218.top/d/%E5%A4%A9%E7%BF%BC%E5%88%86%E4%BA%AB/video-web/jieshao.mp4?sign=9BTNyUzwqMwdWHh20XKtvZcdkFh0WMn-6z4bX7_XZ6k=:0
+支持作者,https://zbds.dnwx.vip/jieshao.mp4
+支持作者,https://img.zhoujie218.top/zbds/jieshao.mp4
+支持作者,https://cdn.jsdelivr.net/gh/vbskycn/iptv@master/img/jieshao.mp4
+支持作者,https://github.dnwx.vip/https://raw.githubusercontent.com/vbskycn/iptv/master/img/jieshao.mp4
 
 
 江西本地,#genre#
