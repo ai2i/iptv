@@ -1,47 +1,5 @@
 
 
-# 电视直播源
-
-### 网络上收集的各种源
-
-
-
-根据自己的需要，维护了几个电视直播软件，不想折腾的自己下载安装就可以使用，免费使用
-
-安卓手机电视都可以用
-
-
-
-#### **直播电视，详细介绍  https://zbds.dnwx.vip**
-
-##### 强烈推荐使用
-
-##### 下载地址：https://zbds.lanzoui.com/b0b2kul6b
-
-![](https://cdn.jsdelivr.net/gh/vbskycn/tu@main/img/21.png)
-
-
-
-
-
-#### 电视影音,512M内存的老电视也能流畅使用
-
-##### 下载地址：https://zbds.lanzoui.com/b0b36hyqd
-
-![](https://ae03.alicdn.com/kf/U516dd9210745452f874907dbae2738a3a.jpg)
-
- 
-
-### 欢迎请我喝杯饮料
-
-![](https://cdn.jsdelivr.net/gh/vbskycn/tu@main/img/ds.jpg)
-
-
-
-
-
-
-
 <h1 align="center"> ✯ 这是一个国内可直连的直播源分享项目 ✯ </h1>
 
 <h3 align="center">🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕</h3>
@@ -74,14 +32,14 @@
   <tbody>
     <tr>
       <td>📺IPTV(江西电信专用)</td>
-      <td><a href="https://live2.zhoujie218.top/dsyy/hd.m3u">https://live2.zhoujie218.top/dsyy/hd.m3u</a></td>
+      <td><a href="https://live.zhoujie218.top/dsyy/hd.m3u">https://live.zhoujie218.top/dsyy/hd.m3u</a></td>
       <td><a href="https://github.com/vbskycn/iptv/edit/main/dsyy/hd.m3u">编辑该源</a></td>
       <td>110个</td>
       <td>2023.8.21</td>
     </tr>
     <tr>
       <td>🌏IPTV组播源（全国）</td>
-      <td><a href="https://live2.zhoujie218.top/dsyy/zb.m3u">https://live2.zhoujie218.top/dsyy/zb.m3u</a></td>
+      <td><a href="https://live.zhoujie218.top/dsyy/zb.m3u">https://live.zhoujie218.top/dsyy/zb.m3u</a></td>
       <td><a href="https://github.com/vbskycn/iptv/edit/main/dsyy/zb.m3u">编辑该源</a></td>
       <td>110个</td>
       <td>2023.8.21</td>
@@ -111,14 +69,23 @@
 </table>
 
 
+
 ## 🛠️工具
 - 🆕EPG接口地址：
-  -  [http://epg.51zmt.top:8000/e.xml](http://epg.51zmt.top:8000/e.xml)
+  -  [http://epg.51zmt.top:8000/](http://epg.51zmt.top:8000/)
+  
 - 📄M3U To TXT：
-  - Demo🔗 [https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u)
+  - Demo🔗 [https://zhuan.dnwx.vip/z.php?url=https://live.zhoujie218.top/dsyy/hd.m3u](https://zhuan.dnwx.vip/z.php?url=https://live2.zhoujie218.top/dsyy/hd.m3u)
+  
+- 📄TXT To M3U：
+
+  - Demo🔗 [https://zhuan.dnwx.vip/z.php?url=https://live.zhoujie218.top/dsyy/hd.txt](https://zhuan.dnwx.vip/z.php?url=https://live2.zhoujie218.top/dsyy/hd.txt)
+
 - 🌐M3U8 Web Player
-  - https://zhuan.dnwx.vip/
-  - Demo🔗 [https://zhuan.dnwx.vip/z.php?url=https://live2.zhoujie218.top/dsyy/hd.m3u](https://zhuan.dnwx.vip/z.php?url=https://live2.zhoujie218.top/dsyy/hd.m3u)
+  
+  - [https://zhuan.dnwx.vip](https://zhuan.dnwx.vip/)
+  
+    
 
 ## 📖说明
 - 本项目业源于大佬 https://github.com/fanmingming/live
@@ -132,5 +99,12 @@
 - 您可以编辑本项目的m3u文件或上传缺失的频道Logo到`tv`或`radio`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布。
 
 ## 📔更新
-- 2023.7.30
+- 2023.8.21
+  
   - 修复了一些已知的问题。
+  
+    
+
+### 欢迎请我喝杯饮料
+
+![](https://cdn.jsdelivr.net/gh/vbskycn/tu@main/img/ds.jpg)
