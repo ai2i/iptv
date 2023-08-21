@@ -74,7 +74,7 @@
   <tbody>
     <tr>
       <td>📺IPTV(江西电信专用)</td>
-      <td><a href="https://live2.zhoujie218.top/dsyy/hd.m3u">https://live2.zhoujie218.top/dsyy/hd.m3u</a></td>
+      <td><a href="https://zhuan.dnwx.vip/z.php?url=https://live2.zhoujie218.top/dsyy/hd.txt">https://live2.zhoujie218.top/dsyy/hd.m3u</a></td>
       <td><a href="https://github.com/vbskycn/iptv/edit/main/dsyy/hd.m3u">编辑该源</a></td>
       <td>110个</td>
       <td>2023.7.29</td>
