@@ -81,7 +81,7 @@
     </tr>
     <tr>
       <td>🌏IPTV组播源（全国）</td>
-      <td><a href="https://live2.zhoujie218.top/dsyy/zb.m3u">https://live2.zhoujie218.top/dsyy/zb.m3u</a></td>
+      <td><a href="https://zhuan.dnwx.vip/z.php?url=https://live2.zhoujie218.top/dsyy/zb.txt">https://live2.zhoujie218.top/dsyy/zb.m3u</a></td>
       <td><a href="https://github.com/vbskycn/iptv/edit/main/dsyy/zb.m3u">编辑该源</a></td>
       <td>110个</td>
       <td>2023.7.31</td>
