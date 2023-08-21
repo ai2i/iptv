@@ -75,11 +75,11 @@
   -  [http://epg.51zmt.top:8000/](http://epg.51zmt.top:8000/)
   
 - 📄M3U To TXT：
-  - Demo🔗 [https://zhuan.dnwx.vip/z.php?url=https://live.zhoujie218.top/dsyy/hd.m3u](https://zhuan.dnwx.vip/z.php?url=https://live2.zhoujie218.top/dsyy/hd.m3u)
+  - Demo🔗 [https://zhuan.dnwx.vip/z.php?url=https://live.zhoujie218.top/dsyy/hd.m3u](https://zhuan.dnwx.vip/z.php?url=https://live.zhoujie218.top/dsyy/hd.m3u)
   
 - 📄TXT To M3U：
 
-  - Demo🔗 [https://zhuan.dnwx.vip/z.php?url=https://live.zhoujie218.top/dsyy/hd.txt](https://zhuan.dnwx.vip/z.php?url=https://live2.zhoujie218.top/dsyy/hd.txt)
+  - Demo🔗 [https://zhuan.dnwx.vip/z.php?url=https://live.zhoujie218.top/dsyy/hd.txt](https://zhuan.dnwx.vip/z.php?url=https://live.zhoujie218.top/dsyy/hd.txt)
 
 - 🌐直播源转换工具
   
