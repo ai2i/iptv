@@ -117,7 +117,8 @@
 - 📄M3U To TXT：
   - Demo🔗 [https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u)
 - 🌐M3U8 Web Player
-  - Demo🔗 [https://live.fanmingming.com/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8](https://live.fanmingming.com/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8)
+  - https://zhuan.dnwx.vip/
+  - Demo🔗 [https://zhuan.dnwx.vip/z.php?url=https://live2.zhoujie218.top/dsyy/hd.m3u](https://zhuan.dnwx.vip/z.php?url=https://live2.zhoujie218.top/dsyy/hd.m3u)
 
 ## 📖说明
 - 本项目业源于大佬 https://github.com/fanmingming/live
