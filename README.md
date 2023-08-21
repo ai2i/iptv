@@ -81,7 +81,7 @@
 
   - Demo🔗 [https://zhuan.dnwx.vip/z.php?url=https://live.zhoujie218.top/dsyy/hd.txt](https://zhuan.dnwx.vip/z.php?url=https://live2.zhoujie218.top/dsyy/hd.txt)
 
-- 🌐M3U8 Web Player
+- 🌐直播源转换工具
   
   - [https://zhuan.dnwx.vip](https://zhuan.dnwx.vip/)
   
