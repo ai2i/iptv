@@ -1,6 +1,6 @@
 import os
 
-def convert_txt_to_m3u(folder_path):
+def convert_txt_to_m3u(folder_path, epg_url):
     # 获取指定文件夹下的所有文件
     file_list = os.listdir(folder_path)
     
@@ -15,7 +15,7 @@ def convert_txt_to_m3u(folder_path):
                 lines = file.readlines()
             
             # 构建m3u格式的内容
-            m3u_content = '#EXTM3U\n'
+            m3u_content = f'#EXTM3U x-tvg-url="{epg_url}"\n'
             
             channel_genre = '未分类'  # 默认分类为"未分类"
             
@@ -53,8 +53,9 @@ def convert_txt_to_m3u(folder_path):
         else:
             print(f'跳过文件 {file_name}，不是txt格式。')
 
-# 指定目录路径
+# 指定目录路径和EPG URL
 folder_path = 'dsyy'
+epg_url = 'http://epg.51zmt.top:8000/e.xml'
 
 # 调用函数进行转换
-convert_txt_to_m3u(folder_path)
+convert_txt_to_m3u(folder_path, epg_url)

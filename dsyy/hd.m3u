@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 group-title="﻿央视频道" tvg-name="CCTV1" tvg-logo="https://live.zhoujie218.top/taibiao/CCTV1.png",CCTV1
 rtsp://115.153.254.81/PLTV/88888888/224/3221225699/iptv8040.smil
 #EXTINF:-1 group-title="﻿央视频道" tvg-name="CCTV2" tvg-logo="https://live.zhoujie218.top/taibiao/CCTV2.png",CCTV2
@@ -33,7 +33,7 @@ rtsp://115.153.254.81/PLTV/88888888/224/3221226988/85722541.smil
 rtsp://115.153.254.81/PLTV/88888888/224/3221227051/92603106.smil
 #EXTINF:-1 group-title="﻿央视频道" tvg-name="CCTV17" tvg-logo="https://live.zhoujie218.top/taibiao/CCTV17.png",CCTV17
 rtsp://115.153.254.81/PLTV/88888888/224/3221226846/61397282.smil
-#EXTINF:-1 group-title="﻿央视频道" tvg-name="CCTV5+超高清" tvg-logo="https://live.zhoujie218.top/taibiao/CCTV5+超高清.png",CCTV5+超高清
+#EXTINF:-1 group-title="﻿央视频道" tvg-name="CCTV5+" tvg-logo="https://live.zhoujie218.top/taibiao/CCTV5+.png",CCTV5+
 rtsp://115.153.254.81/PLTV/88888888/224/3221226976/85722488.smil
 #EXTINF:-1 group-title="﻿央视频道" tvg-name="CCTV4HD-欧洲" tvg-logo="https://live.zhoujie218.top/taibiao/CCTV4HD-欧洲.png",CCTV4HD-欧洲
 rtsp://115.153.254.81/PLTV/88888888/224/3221226964/77799053.smil
