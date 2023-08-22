@@ -73,21 +73,25 @@
 ## 🛠️工具
 - 🆕EPG接口地址：
   -  [http://epg.51zmt.top:8000/](http://epg.51zmt.top:8000/)
-  
 - 📄M3U To TXT：
   - Demo🔗 [https://zhuan.dnwx.vip/z.php?url=https://live.zhoujie218.top/dsyy/hd.m3u](https://zhuan.dnwx.vip/z.php?url=https://live.zhoujie218.top/dsyy/hd.m3u)
-  
 - 📄TXT To M3U：
 
   - Demo🔗 [https://zhuan.dnwx.vip/z.php?url=https://live.zhoujie218.top/dsyy/hd.txt](https://zhuan.dnwx.vip/z.php?url=https://live.zhoujie218.top/dsyy/hd.txt)
-
 - 🌐直播源转换工具
   
   - [https://zhuan.dnwx.vip](https://zhuan.dnwx.vip/)
-  
-    
+
+##    
+
+##  如果你不愿意折腾，这里有折腾好的直播点播软件
+
+- [https://zbds.lanzoui.com/b0b36hyqd](https://zbds.lanzoui.com/b0b36hyqd)
+
+
 
 ## 📖说明
+
 - 本项目业源于大佬 https://github.com/fanmingming/live
 - 所有播放源均收集于互联网，仅供测试研究使用，不得商用。
 - 通过M3U8 Web Player测试直播源需使用https协议的直播源链接。
@@ -98,10 +102,15 @@
 - 所有文件均托管在[GitHub](https://github.com/vbskycn/iptv)且自动构建，由项目发起人公益维护，欢迎Star本项目或点击[Issues](https://github.com/vbskycn/iptv/issues/new/choose)反馈您的问题。
 - 您可以编辑本项目的m3u文件或上传缺失的频道Logo到`tv`或`radio`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布。
 
+
+
 ## 📔更新
-- 2023.8.21
+
+- 2023.8.23
   
-  - 修复了一些已知的问题。
+  - 增加了txt to m3u 在线工具
+  
+  - 修复现有一些的问题
   
     
 
