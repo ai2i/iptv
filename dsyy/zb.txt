@@ -1,4 +1,4 @@
-﻿央视频道11,#genre#
+﻿央视频道,#genre#
 CCTV1,http://iptv4.dnwx.vip:8888/udp/239.252.219.200:5140
 CCTV2,http://iptv4.dnwx.vip:8888/udp/239.252.220.183:5140
 CCTV3,http://iptv4.dnwx.vip:8888/udp/239.252.219.252:5140
