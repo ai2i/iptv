@@ -55377,6 +55377,9 @@
 	<programme channel="爱体育" start="20230916090400 +0800" stop="20230916111500 +0800">
 		<title lang="zh">2023WEC世界汽车耐力锦标赛:赛百灵1000英里赛(四)</title>
 	</programme>
+	<programme channel="爱体育" start="20230916111500 +0800" stop="20230916132000 +0800">
+		<title lang="zh">2022女足亚洲杯1-4决赛:日本-泰国</title>
+	</programme>
 	<channel id="爱动漫">
 		<display-name lang="zh">爱动漫</display-name>
 	</channel>
@@ -55449,6 +55452,9 @@
 	<programme channel="爱动漫" start="20230916111100 +0800" stop="20230916112800 +0800">
 		<title lang="zh">虹猫蓝兔光明剑_49</title>
 	</programme>
+	<programme channel="爱动漫" start="20230916112800 +0800" stop="20230916114500 +0800">
+		<title lang="zh">虹猫蓝兔光明剑_50</title>
+	</programme>
 	<channel id="爱历史">
 		<display-name lang="zh">爱历史</display-name>
 	</channel>
@@ -55518,6 +55524,9 @@
 	<programme channel="爱历史" start="20230916110000 +0800" stop="20230916112900 +0800">
 		<title lang="zh">考古探秘3</title>
 	</programme>
+	<programme channel="爱历史" start="20230916112900 +0800" stop="20230916115300 +0800">
+		<title lang="zh">梅毅说中国史之两晋南北朝篇9</title>
+	</programme>
 	<channel id="爱喜剧">
 		<display-name lang="zh">爱喜剧</display-name>
 	</channel>
@@ -55544,6 +55553,9 @@
 	</programme>
 	<programme channel="爱喜剧" start="20230916094100 +0800" stop="20230916112000 +0800">
 		<title lang="zh">疯狂原始人</title>
+	</programme>
+	<programme channel="爱喜剧" start="20230916112000 +0800" stop="20230916124200 +0800">
+		<title lang="zh">神奇乐园历险记</title>
 	</programme>
 	<channel id="爱奇谈">
 		<display-name lang="zh">爱奇谈</display-name>
@@ -56136,6 +56148,9 @@
 	<programme channel="爱幼教" start="20230916111300 +0800" stop="20230916112800 +0800">
 		<title lang="zh">十二生肖之龙行天下_14</title>
 	</programme>
+	<programme channel="爱幼教" start="20230916112800 +0800" stop="20230916114300 +0800">
+		<title lang="zh">十二生肖之龙行天下_15</title>
+	</programme>
 	<channel id="爱悬疑">
 		<display-name lang="zh">爱悬疑</display-name>
 	</channel>
@@ -56258,6 +56273,9 @@
 	</programme>
 	<programme channel="爱旅行" start="20230916110400 +0800" stop="20230916112600 +0800">
 		<title lang="zh">魅力中国:自然</title>
+	</programme>
+	<programme channel="爱旅行" start="20230916112600 +0800" stop="20230916115100 +0800">
+		<title lang="zh">湿地的力量3</title>
 	</programme>
 	<channel id="爱浪漫">
 		<display-name lang="zh">爱浪漫</display-name>
@@ -56495,6 +56513,9 @@
 	</programme>
 	<programme channel="爱赛车" start="20230916102000 +0800" stop="20230916112300 +0800">
 		<title lang="zh">耐力极限:24小时赛车1</title>
+	</programme>
+	<programme channel="爱赛车" start="20230916112300 +0800" stop="20230916114600 +0800">
+		<title lang="zh">山地自行车英雄1</title>
 	</programme>
 	<channel id="爱院线">
 		<display-name lang="zh">爱院线</display-name>
