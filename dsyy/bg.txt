@@ -1,4 +1,4 @@
-﻿﻿江西本地,#genre#
+﻿江西本地,#genre#
 
 江西卫视,rtsp://115.153.254.81/PLTV/88888888/224/3221225557/iptv7969.smil
 江西都市频道,rtsp://115.153.254.81/PLTV/88888888/224/3221226728/53707442.smil
@@ -48,8 +48,7 @@ Discovery全纪实,rtsp://115.153.254.81/PLTV/88888888/224/3221225605/iptv7993.s
 支持作者,https://zbds.dnwx.vip/jieshao/playlist.m3u8
 支持作者,https://zbds.dnwx.vip/jieshao.mp4
 支持作者,https://img.zhoujie218.top/zbds/jieshao.mp4
-支持作者,https://cdn.jsdelivr.net/gh/vbskycn/iptv@master/img/jieshao.mp4
-支持作者,https://github.dnwx.vip/https://raw.githubusercontent.com/vbskycn/iptv/master/img/jieshao.mp4
+
 
 
 卫视频道,#genre#
