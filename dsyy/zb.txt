@@ -231,7 +231,7 @@ CHC动作电影,rtsp://115.153.254.81/PLTV/88888888/224/3221226992/86128817.smil
 凤凰资讯,https://epg.pw/stream/feef91f40b85dafbfec7b968db0c1fc20f8fafdbbef2dfd751cfbcfd51f6ea5d.m3u8
 凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8
 
-测试,#genre#
+测试2,#genre#
 CCTV1,http://iptv2.dnwx.vip:8888/udp/239.252.219.200:5140
 CCTV2,http://iptv2.dnwx.vip:8888/udp/239.252.220.183:5140
 CCTV3,http://iptv2.dnwx.vip:8888/udp/239.252.219.252:5140
