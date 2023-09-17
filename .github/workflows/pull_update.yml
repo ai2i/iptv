@@ -1,0 +1,19 @@
+name: Pull Update Workflow
+
+on:
+  pull_request:
+    types:
+      - opened
+      - synchronize
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Send GET request
+        run: |
+          curl "https://bt.zhoujie218.top:58888/hook?access_key=4u2W1k4LooRctH82efGcGMRx11PH77XwiS7dcpLtaMbPbLgw&param=iptv"
