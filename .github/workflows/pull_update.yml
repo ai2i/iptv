@@ -1,20 +1,16 @@
 name: Pull Update Workflow
 
 on:
-  pull_request:
-    types:
-      - opened
-      - synchronize
+  push:
+  schedule:
+    - cron: 0 * * * *
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
-      - name: Send GET request
-        run: |
+    - uses: actions/checkout@v3
+    - name: Pull Update Workflow
+      run: |
           curl "https://bt.zhoujie218.top:58888/hook?access_key=4u2W1k4LooRctH82efGcGMRx11PH77XwiS7dcpLtaMbPbLgw&param=iptv" > response.txt
           cat response.txt
