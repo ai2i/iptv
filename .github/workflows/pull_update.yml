@@ -16,4 +16,5 @@ jobs:
 
       - name: Send GET request
         run: |
-          curl "https://bt.zhoujie218.top:58888/hook?access_key=4u2W1k4LooRctH82efGcGMRx11PH77XwiS7dcpLtaMbPbLgw&param=iptv"
+          curl "https://bt.zhoujie218.top:58888/hook?access_key=4u2W1k4LooRctH82efGcGMRx11PH77XwiS7dcpLtaMbPbLgw&param=iptv" > response.txt
+          cat response.txt
