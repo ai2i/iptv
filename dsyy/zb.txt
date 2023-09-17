@@ -336,4 +336,3 @@ BesTV健康养生,http://iptv2.dnwx.vip:8888/udp/239.252.220.129:5140
 快乐垂钓,http://iptv2.dnwx.vip:8888/udp/239.252.220.177:5140
 IPTV体育,http://iptv2.dnwx.vip:8888/udp/239.252.220.211:5140
 昌飞航空,http://iptv2.dnwx.vip:8888/udp/239.252.220.47:5140
-风尚购物,http://iptv2.dnwx.vip:8888/udp/239.252.219.101:5140
