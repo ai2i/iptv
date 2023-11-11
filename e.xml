@@ -63258,6 +63258,9 @@
 	<programme channel="newtv精品纪录" start="20231112030300 +0800" stop="20231112035200 +0800">
 		<title lang="zh">04_海洋</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20231112035200 +0800" stop="20231112044100 +0800">
+		<title lang="zh">03_再大的风 我都去接你</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -63294,6 +63297,9 @@
 	<programme channel="newtv军旅剧场" start="20231112031600 +0800" stop="20231112035900 +0800">
 		<title lang="zh">20_黎明前的抉择</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20231112035900 +0800" stop="20231112044500 +0800">
+		<title lang="zh">06_黄河在咆哮</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -63311,6 +63317,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20231112031400 +0800" stop="20231112035900 +0800">
 		<title lang="zh">37_兰桐花开</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20231112035900 +0800" stop="20231112044100 +0800">
+		<title lang="zh">19_初心</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -63410,6 +63419,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20231112032700 +0800" stop="20231112034900 +0800">
 		<title lang="zh">趴窝的“威尔士亲王”号</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20231112034900 +0800" stop="20231112041100 +0800">
+		<title lang="zh">航展“论剑”——鹰击长空</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
