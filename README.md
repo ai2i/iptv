@@ -35,14 +35,7 @@
       <td><a href="https://live.zhoujie218.top/dsyy/hd.m3u">https://live.zhoujie218.top/dsyy/hd.m3u</a></td>
       <td><a href="https://github.com/vbskycn/iptv/edit/master/dsyy/hd.m3u">编辑该源</a></td>
       <td>110个</td>
-      <td>2023.8.21</td>
-    </tr>
-    <tr>
-      <td>🌏IPTV组播源（全国）</td>
-      <td><a href="https://live.zhoujie218.top/dsyy/zb.m3u">https://live.zhoujie218.top/dsyy/zb.m3u</a></td>
-      <td><a href="https://github.com/vbskycn/iptv/edit/master/dsyy/zb.m3u">编辑该源</a></td>
-      <td>110个</td>
-      <td>2023.8.21</td>
+      <td>2023.11.29</td>
     </tr>
     <tr>
       <td>📺IPTV(IPV6专用)</td>
@@ -67,6 +60,7 @@
     </tr>
   </tbody>
 </table>
+
 
 
 
